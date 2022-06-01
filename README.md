@@ -6,8 +6,10 @@
 | <strong>NIM</strong>     | <strong>312010190</strong>       |
 | <strong>Kelas</strong>   | <strong>TI.20.A.1</strong>        |
 
+### Untuk melihat kembali lab9_php_modular klik <a href="https://github.com/rina1910/Lab9Web">->->DISINI<-<-</a>
+
 ```php
-Pemrograman   berorientasi   objek   atau  object-oriented programming  (OOP)merupakan suatu pendekatan pemrograman yang menggunakan object dan class.
+Pemrograman berorientasi objek atau object-oriented programming (OOP)merupakan suatu pendekatan pemrograman yang menggunakan object dan class.
 Tujuan dari OOP diciptakan adalah untuk mempermudah
 pengembangan program dengan cara mengikuti model yang telah ada di kehidupan sehari-hari.
 ```
