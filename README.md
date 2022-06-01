@@ -6,8 +6,10 @@
 | <strong>NIM</strong>     | <strong>312010190</strong>       |
 | <strong>Kelas</strong>   | <strong>TI.20.A.1</strong>        |
 
-```
+```php
 Pemrograman   berorientasi   objek   atau  object-oriented programming  (OOP)merupakan suatu pendekatan pemrograman yang menggunakan object dan class.
+Tujuan dari OOP diciptakan adalah untuk mempermudah
+pengembangan program dengan cara mengikuti model yang telah ada di kehidupan sehari-hari.
 ```
 # Langkah-langkah Praktikum 10 "PHP OOP"
 ## Sebelum memulai langkah - langkah sebaiknya kita mengaktifkan atau menyalakan MySQL di Aplikasi Xampp
@@ -103,3 +105,4 @@ name='".$this->fields[$j]['name']."'></td></tr>";
     }
 }
 ?>
+```
