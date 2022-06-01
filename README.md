@@ -110,28 +110,6 @@ name='".$this->fields[$j]['name']."'></td></tr>";
 }
 ?>
 ```
-## Hasil format diatas sebagai berikut:</strong>
-![](Foto/foto4.png)
-
-# 2. Membuat file baru dengan nama form.php
-Masukkan kode dibawah ini:
-```php
-<?php
-/**
-* Program memanfaatkan Program 10.2 untuk membuat form inputan sederhana.
-**/
-include "form.php";
-
-echo "<html><head><title>Mahasiswa</title></head><body>";
-$form = new Form("","Input Form");
-$form->addField("txtnim", "Nim");
-$form->addField("txtnama", "Nama");
-$form->addField("txtalamat", "Alamat");
-echo "<h3>Silahkan isi form berikut ini :</h3>";
-$form->displayForm();
-echo "</body></html>";
-?>
-```
 # 3. Membuat file baru dengan nama form_input.php
 Masukkan kode dibawah ini:
 ```php
@@ -151,4 +129,5 @@ $form->displayForm();
 echo "</body></html>";
 ?>
 ```
-
+## Hasil format diatas sebagai berikut:</strong>
+![](Foto/foto2.png)
